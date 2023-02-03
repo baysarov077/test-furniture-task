@@ -45,6 +45,9 @@ const OneSofa = () => {
               <div>55555</div>
               <span>5 отзывов</span>
             </div>
+            <div>
+              {`${oneSofa.price} ₽`}
+            </div>
           </div>
         </div>
       </div>

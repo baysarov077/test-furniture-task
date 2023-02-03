@@ -1,5 +1,5 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import OneSofa from "./components/oneSofa.jsx";
+import OneSofa from "./components/oneSofa/index.jsx";
 import Main from "./Main";
 
 function App() {
