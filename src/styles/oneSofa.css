@@ -1,0 +1,42 @@
+.sofa-images {
+  width: 65%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.main-sofa-image {
+  width: 80%;
+  height: 500px;
+  background: gray
+}
+
+.next-image {
+  width: 100px;
+  height: 100px;
+  background: gray;
+
+}
+
+.images-group {
+ display: flex;
+ flex-direction: column;
+ justify-content: space-between;
+ padding: 20px 0;
+}
+
+.about-sofa {
+  display: flex;
+}
+
+.sofa-info {
+  margin-left: 70px;
+  padding-top: 10px;
+}
+
+.review {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+}
